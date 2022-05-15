@@ -324,13 +324,13 @@ p{
 
 @media screen and (min-width: 1500px) {
   .main-background{
-    width: 1500px;
+    width: 1450px;
     margin: 0 auto;
   }
 }
 @media screen and (min-width: 1500px) {
   .footer-background{
-    width: 1500px;
+    width: 1450px;
     margin: 0 auto;
   }
 }
@@ -821,9 +821,10 @@ p{
   background-color: rgb(242, 242, 242);
   }
   .mainfooter{
-    max-width: 90%;
+    
     margin: 0 auto;
     margin-bottom: 20px;
+    margin-left: 25px;
   }
   .footerbox2 ul li{
     margin-left:  0;
@@ -849,13 +850,12 @@ p{
     padding-left: 10px;
   }
   .footer-background ul{
-    padding-left: 10px !important; 
+    padding-left: 0px !important; 
   }
   .mennu ul{
     padding-left: 10px !important;
   }
-
-}
+  }
 
 
 
